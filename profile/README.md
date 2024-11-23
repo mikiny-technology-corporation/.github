@@ -1,12 +1,13 @@
-# HELLO WORLD! 👋
+<b> Visitor count <b>
+<br/>
+<br/>
+![Visitor Count](https://profile-counter.glitch.me/mikiny-technology-corporation/count.svg)
 
-<!--
+<hr/>
 
-**Here are some ideas to get you started:**
+&#x1f4c8; <b>GitHub Stats</b>
+<br/>
+<div style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaivnit&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" style="width: 100%;" />
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
